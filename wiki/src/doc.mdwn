@@ -1,0 +1,36 @@
+[[!meta title="Documentation"]]
+
+This documentation is a work in progress and a collective task.
+
+Read about how you can help [[improving Tails
+documentation|/contribute/how/documentation]].
+
+- [[Introduction to this documentation|introduction]]
+
+# [[General information|about]]
+
+[[!inline pages="doc/about.index" raw="yes"]]
+
+# [[Get Tails|download]]
+
+[[!inline pages="doc/get.index" raw="yes"]]
+
+# [[First steps with Tails|first_steps]]
+
+[[!inline pages="doc/first_steps.index" raw="yes"]]
+
+# [[Connect to the Internet anonymously|anonymous_internet]]
+
+[[!inline pages="doc/anonymous_internet.index" raw="yes"]]
+
+# [[Encryption & privacy|encryption_and_privacy]]
+
+[[!inline pages="doc/encryption_and_privacy.index" raw="yes"]]
+
+# [[Work on sensitive documents|sensitive_documents]]
+
+[[!inline pages="doc/sensitive_documents.index" raw="yes"]]
+
+# [[Advanced topics|advanced_topics]]
+
+[[!inline pages="doc/advanced_topics.index" raw="yes"]]

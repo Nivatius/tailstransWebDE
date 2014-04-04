@@ -1,0 +1,6 @@
+[[!meta title="Help other Tails users"]]
+
+Providing assistance to other users on our support channels is of great help:
+
+  - [[tails-support mailing list|support/tails-support]]
+  - [[#tails channel on our IRC|contribute/talk]]
